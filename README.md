@@ -16,7 +16,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ruby,rails,github,vscode,docker,discord,jquery,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ruby,rails,github,vscode,docker,discord,jquery,figma,wordpress" /> <br /><br />
   
 # NOW TRAINING
 
