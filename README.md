@@ -1,10 +1,13 @@
 # Hi there👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rei-dev99)](https://github.com/rei-dev99/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rei-dev99&theme=2077)
 
-[![rei-dev99's GitHub stats](https://github-readme-stats.vercel.app/api?username=rei-dev99)](https://github.com/rei-dev99/github-readme-stats)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rei-dev99&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rei-dev99&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-dev99&layout=donut-vertical)](https://github.com/rei-dev99/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rei-dev99&theme=onedark)](https://github-profile-trophy.vercel.app/?username=n-katou&theme=tokyonight)
 
 # SNS
 
