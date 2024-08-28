@@ -19,11 +19,11 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,sass,js,ruby,rails,github,vscode,docker,postgresql,discord,jquery,figma,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,sass,js,jquery,ruby,rails,wordpress,postgresql,docker,figma,github,vscode,discord" /> <br /><br />
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,react,typescript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=ruby,rails,react,typescript,next,vite" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
