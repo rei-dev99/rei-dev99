@@ -19,7 +19,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,sass,js,jquery,ruby,rails,wordpress,postgresql,docker,figma,github,vscode,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,sass,js,jquery,ruby,rails,wordpress,postgresql,docker,figma,github,vscode,discord,vercel" /> <br /><br />
   
 # NOW TRAINING
 
