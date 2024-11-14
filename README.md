@@ -1,4 +1,25 @@
-# Hi there👋
+# Hi 👋, I'm Rei
+
+<p align="left">
+  <a href="https://github.com/rei-dev99">
+    <img height="20" src="https://komarev.com/ghpvc/?username=rei-dev99" />
+  </a>
+  <a href="https://github.com/rei-dev99">
+    <img height="20" src="https://img.shields.io/github/followers/rei-dev99?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/rei-dev99">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rei-dev99/posts.svg" />
+  </a>
+  <a href="http://qiita.com/rei-dev99">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rei-dev99/contributions.svg" />
+  </a>
+</p>
+
+- 👨‍💻NAME: Ida Reiya
+  
+- 🌱AGE: 22
+
+- 🔎Please check more [RESUME](https://www.resume.id/rei_portfolio)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rei-dev99&theme=2077)
 
@@ -12,18 +33,17 @@
 # SNS
 
 <p align="left">
-<a href="https://x.com/ida09r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://x.com/ida09r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Xアイコン" height="40" width="50" /></a>
+<a href="https://qiita.com/rei-dev99" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7e9315db-2e71-4a42-9b76-8d967027a8f3" alt="Qiitaアイコン" height="40" width="40" /></a>
 </p>
-
-
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,sass,js,jquery,ruby,rails,wordpress,postgresql,docker,figma,github,vscode,discord,vercel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,sass,js,jquery,ruby,rails,wordpress,postgresql,docker,figma,github,vscode,discord,vercel,vite" /> <br /><br />
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,react,typescript,next,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,react,typescript,next" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
