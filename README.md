@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rei
+# Hi there👋, I'm Rei
 
 <p align="left">
   <a href="https://github.com/rei-dev99">
@@ -15,11 +15,11 @@
   </a>
 </p>
 
-- 👨‍💻NAME: Ida Reiya
+- 👨‍💻 NAME: Ida Reiya
   
-- 🌱AGE: 22
+- 🌱 AGE: 22
 
-- 🔎Please check more [RESUME](https://www.resume.id/rei_portfolio)
+- 🔎 Please check more [RESUME](https://www.resume.id/rei_portfolio)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rei-dev99&theme=2077)
 
