@@ -33,7 +33,7 @@
 # SNS
 
 <p align="left">
-<a href="https://x.com/ida09r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Xアイコン" height="40" width="50" /></a>
+<a href="https://x.com/rei_dev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Xアイコン" height="40" width="50" /></a>
 <a href="https://qiita.com/rei-dev99" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7e9315db-2e71-4a42-9b76-8d967027a8f3" alt="Qiitaアイコン" height="40" width="40" /></a>
 </p>
 
